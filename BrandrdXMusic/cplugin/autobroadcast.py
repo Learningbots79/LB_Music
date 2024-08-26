@@ -38,7 +38,7 @@ MESSAGE = f"""**๏ ᴛʜɪs ɪs ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴜsɪᴄ ᴘʟᴀʏ
 
 🔐ᴜꜱᴇ » [/start](https://t.me/BhumiMusicBot?start=help) ᴛᴏ ᴄʜᴇᴄᴋ ʙᴏᴛ
 
-➲ ʙᴏᴛ :** @BhumiMusicBotT"""
+➲ ʙᴏᴛ :** @BhumiMusicBot"""
 
 BUTTON = InlineKeyboardMarkup(
     [
