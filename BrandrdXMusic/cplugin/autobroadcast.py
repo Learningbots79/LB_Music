@@ -11,10 +11,9 @@ from BrandrdXMusic.core.mongo import mongodb, pymongodb
 
 AUTO_GCAST = True
 
-START_IMG_URLS = "https://graph.org/file/2fd9703e31548f7a1aaaa.jpg"
+START_IMG_URLS = "https://graph.org/file/cc290ee58069d09a1ade7.jpg"
 
-MESSAGES = f"""**ㅤ
-🫂Link:- https://t.me/+DzLMBmzrr0g5M2Vl ✅
+MESSAGES = f"""**✅
 
 **"""
 
@@ -23,8 +22,8 @@ BUTTONS = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                "๏ BRANDED  ๏",
-                url=f"https://t.me/TIGERBHUMISINGH",
+                "๏ BRAND ๏",
+                url=f"https://t.me/learningbots79",
             )
         ]
     ]
@@ -36,16 +35,16 @@ MESSAGE = f"""**๏ ᴛʜɪs ɪs ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴜsɪᴄ ᴘʟᴀʏ
 
 ➥ sᴜᴘᴘᴏʀᴛᴇᴅ ᴡᴇʟᴄᴏᴍᴇ - ʟᴇғᴛ ɴᴏᴛɪᴄᴇ, ᴛᴀɢᴀʟʟ, ᴠᴄᴛᴀɢ, ʙᴀɴ - ᴍᴜᴛᴇ, sʜᴀʏʀɪ, ʟᴜʀɪᴄs, sᴏɴɢ - ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅ, ᴇᴛᴄ... ❤️
 
-🔐ᴜꜱᴇ » [/start](https://t.me/BhumiMusicBot?start=help) ᴛᴏ ᴄʜᴇᴄᴋ ʙᴏᴛ
+🔐ᴜꜱᴇ » [/start](https://t.me/LB_Music_Bot?start=help) ᴛᴏ ᴄʜᴇᴄᴋ ʙᴏᴛ
 
-➲ ʙᴏᴛ :** @BhumiMusicBot"""
+➲ ʙᴏᴛ :** @LB_Music_Bot"""
 
 BUTTON = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
                 "๏ ᴋɪᴅɴᴀᴘ ᴍᴇ ๏",
-                url=f"https://t.me/BhumiMusicBot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
+                url=f"https://t.me/LB_Music_Bot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
             )
         ]
     ]
