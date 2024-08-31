@@ -18,7 +18,7 @@
 
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️FORKE+THIS+REPO+THEN+USE+AND+GIVE+STAR+ASLO">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️+FORKE+THIS+REPO+THEN+USE+AND+GIVE+STAR+ASLO+⚠️">
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
