@@ -7,26 +7,21 @@ from pyrogram import filters
 
 load_dotenv()
 
-# Get this value from my.telegram.org/apps
-API_ID = 21374618
-API_HASH = "e3c08a17fd1a974590cca32d38c03aab"
+# Fill this all variable 
 
-# Get your token from @BotFather on Telegram.
-BOT_TOKEN = "7188036509:AAHn9MIo6fkIHfqx1swhS6-BfSQmJRPdMEQ"
+API_ID = 
+API_HASH = ""
+BOT_TOKEN = ""
+MONGO_DB_URI = ""
+MUSIC_BOT_NAME = ""
 
-# Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = "mongodb+srv://Bhumi:Bhumi99@cluster0.ue8p4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-MUSIC_BOT_NAME = "˹ʙʜᴜᴍι ᴍᴜsιƈ˼"
 PRIVATE_BOT_MODE = getenv("PRIVATE_BOT_MODE", None)
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 90))
 
-# Chat id of a group for logging bot's activities
-LOGGER_ID = -1002244957657
-LOG_GROUP_ID = "-1002244957657"
-
-# Get this value from @BRANDRD_ROBOT on Telegram by /id
-OWNER_ID = 1321591503
+LOGGER_ID = 
+LOG_GROUP_ID = 
+OWNER_ID = 
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -43,8 +38,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/TIGERBHUMISINGH")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+DzLMBmzrr0g5M2Vl")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/learningbots79")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/learning_bots")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -74,8 +69,8 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
 
 
 # Get your pyrogram v2 session from @BRANDEDSTRINGSESSION_BOT on Telegram
-STRING1 = "BQFGJpoAGBEiJMRFoQl2Hgp_Ix9N2KiGfAqchPKItuKzaleOeD9KqmKG64L9lOuUNZhCsZso2XHFv1P6fCWSSO4m8rPZa_vp0xUmKPqHGW88JP4N6hRcNXZLOld8bXDvP_VuL0PElqcPV2fWeily1OusNdC6Wj2_xsnRdu7YMXcCQurG32ypQ36LtcqbJvoG0lTmK0DHu94EF3qxNUZRINR423yH0a4T_SPXyxNO77rCNsRA2u2uPP8Z7bkoUY5tLDfPOErhFMqfjNlniTiausaw6bfIMREu4MWLPbMtyb7OGKMhJE1d-cf4dwXEvapBtb1fCVMN7PpzXkrxsRiOX7OH2RUXMAAAAAGxBRIMAA"
-STRING2 = getenv("STRING_SESSION2", None)
+STRING1 = ""
+STRING2 = ""
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
 STRING5 = getenv("STRING_SESSION5", None)
